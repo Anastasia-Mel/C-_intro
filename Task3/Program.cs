@@ -6,27 +6,27 @@ if(num == 1)
 {
     Console.WriteLine($"Monday");
 }
-if(num == 2)
+else if(num == 2)
 {
     Console.WriteLine($"Tuesday");
 }
-if(num == 3)
+else if(num == 3)
 {
     Console.WriteLine($"Wednesday");
 }
-if(num == 4)
+else if(num == 4)
 {
     Console.WriteLine($"Thursday");
 }
-if(num == 5)
+else if(num == 5)
 {
     Console.WriteLine($"Friday");
 }
-if(num == 6)
+else if(num == 6)
 {
     Console.WriteLine($"Saturday");
 }
-if(num == 7)
+else if(num == 7)
 {
     Console.WriteLine($"Sunday");
 }
