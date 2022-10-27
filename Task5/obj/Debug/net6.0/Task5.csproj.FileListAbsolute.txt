@@ -1,0 +1,15 @@
+/Users/anastasiya/Desktop/C#_intro/Task5/obj/Debug/net6.0/Task5.csproj.AssemblyReference.cache
+/Users/anastasiya/Desktop/C#_intro/Task5/obj/Debug/net6.0/Task5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiya/Desktop/C#_intro/Task5/obj/Debug/net6.0/Task5.AssemblyInfoInputs.cache
+/Users/anastasiya/Desktop/C#_intro/Task5/obj/Debug/net6.0/Task5.AssemblyInfo.cs
+/Users/anastasiya/Desktop/C#_intro/Task5/obj/Debug/net6.0/Task5.csproj.CoreCompileInputs.cache
+/Users/anastasiya/Desktop/C#_intro/Task5/bin/Debug/net6.0/Task5
+/Users/anastasiya/Desktop/C#_intro/Task5/bin/Debug/net6.0/Task5.deps.json
+/Users/anastasiya/Desktop/C#_intro/Task5/bin/Debug/net6.0/Task5.runtimeconfig.json
+/Users/anastasiya/Desktop/C#_intro/Task5/bin/Debug/net6.0/Task5.dll
+/Users/anastasiya/Desktop/C#_intro/Task5/bin/Debug/net6.0/Task5.pdb
+/Users/anastasiya/Desktop/C#_intro/Task5/obj/Debug/net6.0/Task5.dll
+/Users/anastasiya/Desktop/C#_intro/Task5/obj/Debug/net6.0/refint/Task5.dll
+/Users/anastasiya/Desktop/C#_intro/Task5/obj/Debug/net6.0/Task5.pdb
+/Users/anastasiya/Desktop/C#_intro/Task5/obj/Debug/net6.0/Task5.genruntimeconfig.cache
+/Users/anastasiya/Desktop/C#_intro/Task5/obj/Debug/net6.0/ref/Task5.dll
