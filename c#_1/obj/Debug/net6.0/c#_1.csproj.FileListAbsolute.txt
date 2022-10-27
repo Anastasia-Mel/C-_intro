@@ -1,0 +1,15 @@
+/Users/anastasiya/Desktop/C#_intro/c#_1/bin/Debug/net6.0/c#_1
+/Users/anastasiya/Desktop/C#_intro/c#_1/bin/Debug/net6.0/c#_1.deps.json
+/Users/anastasiya/Desktop/C#_intro/c#_1/bin/Debug/net6.0/c#_1.runtimeconfig.json
+/Users/anastasiya/Desktop/C#_intro/c#_1/bin/Debug/net6.0/c#_1.dll
+/Users/anastasiya/Desktop/C#_intro/c#_1/bin/Debug/net6.0/c#_1.pdb
+/Users/anastasiya/Desktop/C#_intro/c#_1/obj/Debug/net6.0/c#_1.csproj.AssemblyReference.cache
+/Users/anastasiya/Desktop/C#_intro/c#_1/obj/Debug/net6.0/c#_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiya/Desktop/C#_intro/c#_1/obj/Debug/net6.0/c#_1.AssemblyInfoInputs.cache
+/Users/anastasiya/Desktop/C#_intro/c#_1/obj/Debug/net6.0/c#_1.AssemblyInfo.cs
+/Users/anastasiya/Desktop/C#_intro/c#_1/obj/Debug/net6.0/c#_1.csproj.CoreCompileInputs.cache
+/Users/anastasiya/Desktop/C#_intro/c#_1/obj/Debug/net6.0/c#_1.dll
+/Users/anastasiya/Desktop/C#_intro/c#_1/obj/Debug/net6.0/refint/c#_1.dll
+/Users/anastasiya/Desktop/C#_intro/c#_1/obj/Debug/net6.0/c#_1.pdb
+/Users/anastasiya/Desktop/C#_intro/c#_1/obj/Debug/net6.0/c#_1.genruntimeconfig.cache
+/Users/anastasiya/Desktop/C#_intro/c#_1/obj/Debug/net6.0/ref/c#_1.dll
