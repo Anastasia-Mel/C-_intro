@@ -1,0 +1,15 @@
+/Users/anastasiya/Desktop/C#_intro/Task7/obj/Debug/net6.0/Task7.csproj.AssemblyReference.cache
+/Users/anastasiya/Desktop/C#_intro/Task7/obj/Debug/net6.0/Task7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiya/Desktop/C#_intro/Task7/obj/Debug/net6.0/Task7.AssemblyInfoInputs.cache
+/Users/anastasiya/Desktop/C#_intro/Task7/obj/Debug/net6.0/Task7.AssemblyInfo.cs
+/Users/anastasiya/Desktop/C#_intro/Task7/obj/Debug/net6.0/Task7.csproj.CoreCompileInputs.cache
+/Users/anastasiya/Desktop/C#_intro/Task7/bin/Debug/net6.0/Task7
+/Users/anastasiya/Desktop/C#_intro/Task7/bin/Debug/net6.0/Task7.deps.json
+/Users/anastasiya/Desktop/C#_intro/Task7/bin/Debug/net6.0/Task7.runtimeconfig.json
+/Users/anastasiya/Desktop/C#_intro/Task7/bin/Debug/net6.0/Task7.dll
+/Users/anastasiya/Desktop/C#_intro/Task7/bin/Debug/net6.0/Task7.pdb
+/Users/anastasiya/Desktop/C#_intro/Task7/obj/Debug/net6.0/Task7.dll
+/Users/anastasiya/Desktop/C#_intro/Task7/obj/Debug/net6.0/refint/Task7.dll
+/Users/anastasiya/Desktop/C#_intro/Task7/obj/Debug/net6.0/Task7.pdb
+/Users/anastasiya/Desktop/C#_intro/Task7/obj/Debug/net6.0/Task7.genruntimeconfig.cache
+/Users/anastasiya/Desktop/C#_intro/Task7/obj/Debug/net6.0/ref/Task7.dll
